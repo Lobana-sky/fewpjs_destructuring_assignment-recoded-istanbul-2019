@@ -16,6 +16,7 @@ console.log(r,o,y,g,b,v);
 
 const [,,,,,indg]=colors;
 console.log(indg);
+
 const muppet = {
   name: 'Kermit',
   color: 'green',
