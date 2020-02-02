@@ -8,7 +8,8 @@ const [black_and_white, ,black,pink]=farmAnimals.split(" ");
 console.log(black_and_white,black,pink);
   
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-const [red,orange,yellow,green,blue,indigo,violet]=
+const [red,orange,yellow,green,blue,indigo,violet]=colors;
+console.log(red,orange,yellow,green,blue,indigo,violet);
 const muppet = {
   name: 'Kermit',
   color: 'green',
