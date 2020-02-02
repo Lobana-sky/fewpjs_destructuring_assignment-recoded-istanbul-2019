@@ -2,15 +2,6 @@ const farmAnimals = 'cow horse sheep pig chicken'
 const [moo,neigh,baa,oink,cluck]=farmAnimals.split(" ");
 console.log(moo,neigh,baa,oink,cluck);
 
-// t(Bessie).to.exist
-//     expect(Bessie).to.equal("cow")
-//     expect(Dolly).to.exist
-//     expect(Dolly).to.equal("sheep")
-//     expect(Babe).to.exist
-//     expect(Babe).to.equal("pig")
-//     expect(Little).to.exist
-//     expect(Little).to.eq
-
 const [Bessie, ,Dolly,Babe,Little]=farmAnimals.split(" ");
 console.log(Bessie,Dolly,Babe,Little);
 
