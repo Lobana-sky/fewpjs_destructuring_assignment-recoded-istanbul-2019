@@ -4,8 +4,8 @@ console.log(moo,neigh,baa,oink,cluck);
 
 const [Bessie, ,Dolly,Babe,Little]=farmAnimals.split(" ");
 console.log(Bessie,Dolly,Babe,Little);
-    const [black_and_white, ,black,pink]=farmAnimals.split(" ");
-    console.log(black_and_white,black,pink);
+const [black_and_white, ,black,pink]=farmAnimals.split(" ");
+console.log(black_and_white,black,pink);
   
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
