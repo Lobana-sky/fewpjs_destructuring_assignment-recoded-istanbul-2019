@@ -34,12 +34,7 @@ const k_muppet = {
   k_partner: 'Miss Piggy'
 };
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
-
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
-
 // Objects
-
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
-
-
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
