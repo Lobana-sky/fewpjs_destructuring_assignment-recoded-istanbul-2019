@@ -12,8 +12,8 @@ const farmAnimals = 'cow horse sheep pig chicken'
 //     expect(cluck).to.exist
 //     expect(cluck)
     
-const [a,b,c,d,e]=farmAnimals.split(" ");
-console.log(a,b,c,d,e);
+const [moo,neigh,baa,oink,cluck]=farmAnimals.split(" ");
+console.log(moo,neigh,baa,oink,cluck);
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
