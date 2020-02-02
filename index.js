@@ -5,6 +5,16 @@ console.log(moo,neigh,baa,oink,cluck);
 const [Bessie, ,Dolly,Babe,Little]=farmAnimals.split(" ");
 console.log(Bessie,Dolly,Babe,Little);
 
+// (black_and_white).to.exist
+//     expect(black_and_white).to.equal("cow")
+//     expect(black).to.exist
+//     expect(black).to.equal("sheep")
+//     expect(pink).to.exist
+//     expect(pink).to.equal("pig")
+    
+    const [black_and_white, ,black,pink]=farmAnimals.split(" ");
+    console.log(black_and_white,black,pink);
+  
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const muppet = {
